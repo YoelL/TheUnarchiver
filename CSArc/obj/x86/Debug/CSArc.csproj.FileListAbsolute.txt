@@ -1,0 +1,17 @@
+\\SkyNet\home\C# HW3\CSArc\CSArc\obj\x86\Debug\CSArc.exe
+\\SkyNet\home\C# HW3\CSArc\CSArc\bin\Debug\CSArc.exe
+\\SkyNet\home\C# HW3\CSArc\CSArc\bin\Debug\CSArc.pdb
+\\SkyNet\home\C# HW3\CSArc\CSArc\obj\x86\Debug\CSArc.csprojResolveAssemblyReference.cache
+\\SkyNet\home\C# HW3\CSArc\CSArc\obj\x86\Debug\CSArc.pdb
+C:\Users\Windows\Desktop\CSArc\CSArc\obj\x86\Debug\CSArc.exe
+C:\Users\Windows\Desktop\CSArc\CSArc\obj\x86\Debug\CSArc.pdb
+C:\Users\Windows\Desktop\CSArc\CSArc\bin\Debug\CSArc.exe
+C:\Users\Windows\Desktop\CSArc\CSArc\bin\Debug\CSArc.pdb
+C:\Users\Windows\Desktop\CSArc\CSArc\obj\x86\Debug\CSArc.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\C# HW3\CSArc\CSArc\obj\x86\Debug\CSArc.exe
+C:\Users\Windows\Desktop\C# HW3\CSArc\CSArc\obj\x86\Debug\CSArc.pdb
+C:\Users\Windows\Desktop\C# HW3\C# HW3\CSArc\CSArc\obj\x86\Debug\CSArc.exe
+C:\Users\Windows\Desktop\C# HW3\C# HW3\CSArc\CSArc\obj\x86\Debug\CSArc.pdb
+C:\Users\Windows\Desktop\C# HW3\C# HW3\CSArc\CSArc\bin\Debug\CSArc.exe
+C:\Users\Windows\Desktop\C# HW3\C# HW3\CSArc\CSArc\bin\Debug\CSArc.pdb
+C:\Users\Windows\Desktop\C# HW3\C# HW3\CSArc\CSArc\obj\x86\Debug\CSArc.csprojResolveAssemblyReference.cache

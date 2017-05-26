@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{1DB2FDDC-9C3E-48E9-9B94-0BDCE6AF9419}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSArc/InputOutput.cs">
+    <Files>
+      <File FileName="CSArc/Program.cs" Line="13" Column="4" />
+      <File FileName="CSArc/Archiver.cs" Line="62" Column="10" />
+      <File FileName="CSArc/ArchiveStructure.cs" Line="1" Column="1" />
+      <File FileName="CSArc/Extractor.cs" Line="1" Column="1" />
+      <File FileName="CSArc/InputOutput.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CSArc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

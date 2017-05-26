@@ -1,0 +1,5 @@
+/Users/yoellev/Projects/CSArc/CSArc/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/yoellev/Projects/CSArc/CSArc/bin/Debug/CSArc.exe.mdb
+/Users/yoellev/Projects/CSArc/CSArc/bin/Debug/CSArc.exe
+/Users/yoellev/Projects/CSArc/CSArc/obj/x86/Debug/CSArc.exe
+/Users/yoellev/Projects/CSArc/CSArc/obj/x86/Debug/CSArc.exe.mdb
